@@ -8,6 +8,7 @@ __pycache__/
 *.pt
 .DS_Store
 .ipynb_checkpoints
+output_images/
 
 # Distribution / packaging
 .Python
